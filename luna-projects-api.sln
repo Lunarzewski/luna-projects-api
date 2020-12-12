@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "luna-projects-api", "luna-projects-api\luna-projects-api.csproj", "{91A9B357-98C1-4CA6-A6FD-794234643367}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "luna-projects.Api", "luna-projects.Api\luna-projects.Api.csproj", "{91A9B357-98C1-4CA6-A6FD-794234643367}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
